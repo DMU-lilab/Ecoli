@@ -1,5 +1,5 @@
 # Ecoli
-Algorithm of Improved Duplex Sequencing
+Algorithm of Improved Duplex Sequencing (IDS)
 
 Pipline
 ====================
