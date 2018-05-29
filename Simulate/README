@@ -1,0 +1,9 @@
+Function:
+    Used to randomly generate a specified number of mutations!
+
+Compile:
+    gcc -std=c99 -o getsnv
+
+Example:
+    eg. randomly generate 1500 snvs
+    $ ./getsnv Ecoli_ATCC9739.fa 1500
